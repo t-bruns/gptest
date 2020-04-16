@@ -1,8 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 // Breakpoints
 $large-breakpoint: 64em;
 $medium-breakpoint: 42em;
@@ -26,3 +24,5 @@ $code-text-color: #567482;
 $border-color: #dce6f0;
 $table-border-color: #e9ebec;
 $hr-border-color: #eff0f1;
+
+@import "{{ site.theme }}";
