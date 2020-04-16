@@ -26,3 +26,15 @@ $table-border-color: #1d6d7e;
 $hr-border-color: #1d6d7e;
 
 @import "{{ site.theme }}";
+
+.btn {
+    color: #FFF;
+    background-color: #1d8495;
+    border: none;
+    border-radius: 64px;
+}
+
+@media screen and (min-width: 64em)
+.btn {
+    padding: 4px 20px 4px 20px;
+}
