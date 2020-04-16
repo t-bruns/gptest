@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: Titel aus Config
+description: Beschreibung aus Config lorem ipsum dolor
+show_downloads: false
