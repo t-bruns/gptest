@@ -33,6 +33,12 @@ $hr-border-color: #1d6d7e;
     border: none;
     border-radius: 64px;
 }
+.btn:hover {
+    color: #fff;
+    background-color: #1d8495;
+    border: none;
+    border-radius: 64px;
+}
 
 @media screen and (min-width: 64em)
 .btn {
