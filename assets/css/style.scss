@@ -27,20 +27,9 @@ $hr-border-color: #1d6d7e;
 
 @import "{{ site.theme }}";
 
-.btn {
+.sopi-btn {
     color: #fff !important;
     background-color: #1d8495 !important;
-    border: none !important;
     border-radius: 64px !important;
-}
-.btn:hover {
-    color: #fff !important;
-    background-color: #1d8495 !important;
-    border: none !important;
-    border-radius: 64px !important;
-}
-
-@media screen and (min-width: 64em)
-.btn {
     padding: 4px 20px 4px 20px !important;
 }
