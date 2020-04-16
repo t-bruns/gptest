@@ -27,6 +27,10 @@ $hr-border-color: #1d6d7e;
 
 @import "{{ site.theme }}";
 
+h1 {
+    font-size: 1.8em;
+}
+
 .sopi-btn {
     color: #fff !important;
     background-color: #1d8495 !important;
