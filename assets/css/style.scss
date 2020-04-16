@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "";
+@import "{{ site.theme }}";
 
 // Breakpoints
 $large-breakpoint: 64em !default;
