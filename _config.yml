@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: DigitalMindCH/gridster-jekyll-theme
 title: "Titel aus Config"
 description: "Beschreibung aus Config lorem ipsum dolor"
 show_downloads: false
