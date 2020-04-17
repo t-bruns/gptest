@@ -1,4 +1,4 @@
-theme: benbalter/retlab
+remote_theme: benbalter/retlab
 title: "Titel aus Config"
 description: "Beschreibung aus Config lorem ipsum dolor"
 show_downloads: false
