@@ -1,4 +1,4 @@
-remote_theme: benbalter/retlab
+remote_theme: orgarena/orgarena-jekyll-theme
 title: "Titel aus Config"
 description: "Beschreibung aus Config lorem ipsum dolor"
 show_downloads: false
