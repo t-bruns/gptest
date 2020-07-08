@@ -25,4 +25,7 @@
   @include small {
     top: 200px;
   }
+  :hover {
+    text-decoration: none;
+  }
 }
