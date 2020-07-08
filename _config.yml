@@ -3,3 +3,4 @@ title: "Titel aus Config"
 description: "Beschreibung aus Config lorem ipsum dolor"
 show_downloads: false
 lang: de_DE
+baseurl: gptest
