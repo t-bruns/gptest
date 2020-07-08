@@ -4,27 +4,29 @@
 @import "{{ site.theme }}";
 
 .home-button {
-  margin: 0;
+  margin: 4px 4px 0 0;
   padding: 4px 16px 4px 16px;
   background-color: $orga4-taupe;
   color: #fff;
   text-decoration: none;
   border-radius: 14px;
-  position: absolute;
-  top: 290px;
-  right: 6px;
+  float: right;
+  //position: absolute;
+  //top: 290px;
+  //right: 6px;
 
   @include large {
-    top: 290px;
+    //top: 290px;
   }
 
   @include medium {
-    top: 230px;
+    //top: 230px;
   }
 
   @include small {
-    top: 200px;
+    //top: 270px;
   }
+
   &:hover {
     text-decoration: none;
   }
