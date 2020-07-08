@@ -12,5 +12,17 @@
   border-radius: 6px;
   position: absolute;
   top: 300px;
-  right: 0;
+  right: 12px;
+
+  @include large {
+    top: 300px;
+  }
+
+  @include medium {
+    top: 2500px;
+  }
+
+  @include small {
+    top: 200px;
+  }
 }
