@@ -11,11 +11,11 @@
   text-decoration: none;
   border-radius: 14px;
   position: absolute;
-  top: 300px;
+  top: 290px;
   right: 6px;
 
   @include large {
-    top: 300px;
+    top: 290px;
   }
 
   @include medium {
@@ -25,7 +25,7 @@
   @include small {
     top: 200px;
   }
-  :hover {
+  &:hover {
     text-decoration: none;
   }
 }
