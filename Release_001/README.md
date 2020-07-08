@@ -1,7 +1,3 @@
----
-layout: release
----
-
 # Neuigkeiten aus Release 001
 
 ## Eine H2 Überschrift
