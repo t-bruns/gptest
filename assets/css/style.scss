@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .home-button {
-  margin: 4px 4px 0 0;
+  margin: 0;
   padding: 4px 16px 4px 16px;
   background-color: $orga4-taupe;
   color: #fff;
@@ -17,15 +17,13 @@
   //right: 6px;
 
   @include large {
-    //top: 290px;
   }
 
   @include medium {
-    //top: 230px;
   }
 
   @include small {
-    //top: 270px;
+    float: none;
   }
 
   &:hover {
