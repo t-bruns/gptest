@@ -1,6 +1,3 @@
----
-layout: release
----
 # Neuigkeiten aus Release 002
 
 ## H2 Überschrift
