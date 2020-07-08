@@ -34,14 +34,15 @@
     <main id="content" class="main-content" role="main">
       <h1>DAS IST DAS RELEASE LAYOUT</h1>
       <a href="{{ site.url }}">Zurück zu Übersicht</a>
-      {{ content }}
-
+      <div class="content-wrapper">
+        {{ content }}
+      </div>
+      <a href="{{ site.url }}" style="margin: 0; padding: 10px; background-color: #30636e; color: #fff;">zur&uuml;ck zur Übersicht</a>
       <footer class="site-footer">
         <span class="site-footer-title">{{ page.footerTitle }}</span>
         <span class="site-footer-site-title">{{ site.title }}</span>
         <span class="site-footer-site-description">{{ site.description }}</span>
       </footer>
     </main>
-    <a href="{{ site.url }}" style="margin: 0; padding: 10px; background-color: #30636e; color: #fff;">zur&uuml;ck zur Übersicht</a>
   </body>
 </html>
