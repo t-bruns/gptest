@@ -5,21 +5,21 @@
 
 .home-button {
   margin: 0;
-  padding: 10px;
+  padding: 4px 16px 4px 16px;
   background-color: $orga4-taupe;
-  color: $orga5-hell;
+  color: #fff;
   text-decoration: none;
-  border-radius: 6px;
+  border-radius: 14px;
   position: absolute;
   top: 300px;
-  right: 12px;
+  right: 6px;
 
   @include large {
     top: 300px;
   }
 
   @include medium {
-    top: 2500px;
+    top: 230px;
   }
 
   @include small {
